@@ -15,12 +15,17 @@
 
 <div style="display: inline_block"><br/>
 <img align="center" alt= "Java" height = "80" width = "90" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-<img align="center" alt= "Git" height = "80" width = "90" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
 <img align="center" alt= "Git" height = "80" width = "90" src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
 <img align="center" alt= "Git" height = "80" width = "90" src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-<img align="center" alt= "Git" height = "80" width = "90" src = "https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg">
 
 </div>
 
-![Snake animation]
+## Ferramentas e Frameworks
+
+<div style="display: inline_block"><br/>
+<img align="center" alt= "Git" height = "60" width = "70" src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+<img align="center" alt= "Git" height = "60" width = "70" src = "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
+<img align="center" alt= "Git" height = "80" width = "90" src = "https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg">
+<img align="center" alt= "Git" height = "80" width = "90" src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+
 
