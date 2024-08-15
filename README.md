@@ -27,7 +27,7 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt= "Git" height = "60" width = "70" src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 <img align="center" alt= "Git" height = "60" width = "70" src = "https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg">
-<img align="center" alt= "Git" height = "80" width = "90" src = "https://github.com/devicons/devicon/blob/master/icons/trello/trello-original-wordmark.svg">
+
 
 
 
